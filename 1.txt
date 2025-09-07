@@ -1,0 +1,3 @@
+curl -X GET "https://open-api.bingx.com/openApi/spot/v1/common/symbols" -H "X-BX-APIKEY: FOURWTL4LRr3wTAxAHeAtyt6I023AN9u2nk9OljHv1FArK2LAPOLqG88M7LLfJBX5l14R89zmtJ9H1rFO4mlpQ"
+
+
